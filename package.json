@@ -1,0 +1,19 @@
+{
+  "name": "snowpack-plugin-known-entrypoints",
+  "version": "0.1.0",
+  "description": "Add known entrypoints to Snowpack",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpj/snowpack-plugin-known-entrypoints.git"
+  },
+  "keywords": [
+    "snowpack"
+  ],
+  "author": "Wyatt Johnston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpj/snowpack-plugin-known-entrypoints/issues"
+  },
+  "homepage": "https://github.com/wpj/snowpack-plugin-known-entrypoints#readme"
+}
